@@ -92,6 +92,10 @@ Agora permaneça sempre na pasta *mysite*
 
 e digite
 
+	$ python manage.py migrate
+
+para criar a primeira *migração* e
+
 	$ python manage.py runserver
 
 e veja que o projeto já está funcionando.
