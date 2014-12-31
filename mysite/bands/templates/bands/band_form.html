@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% load bootstrap3 %}
+
+{% block title %}
+    <title>Band Form</title>
+{% endblock title %}
+
+{% block content %}
+
+    <h1>Create band</h1>
+    <form class="form col-sm-4" method="POST">
+        {% csrf_token %}
+        {% bootstrap_form form %}
+        {% buttons %}
+            <button type="submit" class="btn btn-primary">Submit</button>
+        {% endbuttons %}
+    </form>
+
+{% endblock content %}
+

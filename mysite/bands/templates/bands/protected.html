@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}
+    <title>Protected</title>
+{% endblock title %}
+
+{% block content %}
+    <h1>Protected page</h1>
+
+    <p>Logged as: {{ user }}</p>
+{% endblock content %}
+
