@@ -1,0 +1,346 @@
+[
+{
+  "fields": {
+    "can_rock": true,
+    "name": "Guns N' Roses"
+  },
+  "model": "bands.band",
+  "pk": 1
+},
+{
+  "fields": {
+    "can_rock": false,
+    "name": "Led Zeppelin"
+  },
+  "model": "bands.band",
+  "pk": 2
+},
+{
+  "fields": {
+    "can_rock": true,
+    "name": "The Beatles"
+  },
+  "model": "bands.band",
+  "pk": 3
+},
+{
+  "fields": {
+    "can_rock": true,
+    "name": "Pink Floyd"
+  },
+  "model": "bands.band",
+  "pk": 4
+},
+{
+  "fields": {
+    "can_rock": true,
+    "name": "Metallica"
+  },
+  "model": "bands.band",
+  "pk": 5
+},
+{
+  "fields": {
+    "can_rock": false,
+    "name": "U2"
+  },
+  "model": "bands.band",
+  "pk": 6
+},
+{
+  "fields": {
+    "can_rock": true,
+    "name": "Linkin Park"
+  },
+  "model": "bands.band",
+  "pk": 7
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "Axl Rose",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 1
+},
+{
+  "fields": {
+    "instrument": "p",
+    "name": "Dizzy Reed",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 2
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "Tommy Stinson",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 3
+},
+{
+  "fields": {
+    "instrument": "p",
+    "name": "Chris Pitman",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 4
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Richard Fortus",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 5
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Ron 'Bumblefoot' Thal",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 6
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Frank Ferrer",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 7
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "DJ Ashba",
+    "band": 1
+  },
+  "model": "bands.member",
+  "pk": 8
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Jimmy Page",
+    "band": 2
+  },
+  "model": "bands.member",
+  "pk": 9
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "John Bonham",
+    "band": 2
+  },
+  "model": "bands.member",
+  "pk": 10
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "John Paul Jones",
+    "band": 2
+  },
+  "model": "bands.member",
+  "pk": 11
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "Robert Plant",
+    "band": 2
+  },
+  "model": "bands.member",
+  "pk": 12
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "John Lennon",
+    "band": 3
+  },
+  "model": "bands.member",
+  "pk": 13
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "Paul McCartney",
+    "band": 3
+  },
+  "model": "bands.member",
+  "pk": 14
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "George Harrison",
+    "band": 3
+  },
+  "model": "bands.member",
+  "pk": 15
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Ringo Starr",
+    "band": 3
+  },
+  "model": "bands.member",
+  "pk": 16
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "David Gilmour",
+    "band": 4
+  },
+  "model": "bands.member",
+  "pk": 17
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Nick Mason",
+    "band": 4
+  },
+  "model": "bands.member",
+  "pk": 18
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "James Hetfield",
+    "band": 5
+  },
+  "model": "bands.member",
+  "pk": 19
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Lars Ulrich",
+    "band": 5
+  },
+  "model": "bands.member",
+  "pk": 20
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Kirk Hammett",
+    "band": 5
+  },
+  "model": "bands.member",
+  "pk": 21
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "Robert Trujillo",
+    "band": 5
+  },
+  "model": "bands.member",
+  "pk": 22
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "Bono Vox",
+    "band": 6
+  },
+  "model": "bands.member",
+  "pk": 23
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "Adam Clayton",
+    "band": 6
+  },
+  "model": "bands.member",
+  "pk": 24
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "The Edge",
+    "band": 6
+  },
+  "model": "bands.member",
+  "pk": 25
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Larry Mullen Jr.",
+    "band": 6
+  },
+  "model": "bands.member",
+  "pk": 26
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "Chester Bennington",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 27
+},
+{
+  "fields": {
+    "instrument": "v",
+    "name": "Mike Shinoda",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 28
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Joe Hahn",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 29
+},
+{
+  "fields": {
+    "instrument": "g",
+    "name": "Brad Delson",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 30
+},
+{
+  "fields": {
+    "instrument": "d",
+    "name": "Rob Bourdon",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 31
+},
+{
+  "fields": {
+    "instrument": "b",
+    "name": "David Farrell",
+    "band": 7
+  },
+  "model": "bands.member",
+  "pk": 32
+}
+]
