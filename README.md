@@ -35,6 +35,10 @@ e *ative o ambiente*
 
 	$ source bin/activate
 
+Para diminuir o caminho do prompt digite
+	
+	$ PS1="(`basename \"$VIRTUAL_ENV\"`):/\W$ "
+
 ### Instalando [Django 1.7][0] + [django-bootstrap3][4]
 
 	$ pip install django==1.7.1 django-bootstrap3
