@@ -90,7 +90,7 @@ A intenção é que os arquivos tenham a seguinte hierarquia nas pastas:
 	│   ├── urls.py
 
 
-Agora permaneça sempre na pasta *mysite*
+Agora permaneça sempre na pasta *django1.7*
 
 	$ cd ..
 
