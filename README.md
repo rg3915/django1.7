@@ -41,7 +41,7 @@ Para diminuir o caminho do prompt digite
 
 ### Instalando [Django 1.7][0] + [django-bootstrap3][4]
 
-	$ pip install django==1.7.1 django-bootstrap3
+	$ pip install django==1.7.2 django-bootstrap3
 
 *Dica*: se você digitar ``pip freeze`` você verá a versão dos programas instalados.
 
