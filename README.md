@@ -106,7 +106,7 @@ e veja que o projeto já está funcionando.
 
 ### Video no YouTube
 
-Agora assista o video no youtube e também leia [tutorial01][5].
+Agora assista o video no [youtube][6] e também leia [tutorial01][5].
 
 ### Carregando dados de um **json**
 
@@ -124,3 +124,4 @@ Boa sorte!
 [3]: http://pip.readthedocs.org/en/latest/
 [4]: http://django-bootstrap3.readthedocs.org/en/latest/
 [5]: https://docs.djangoproject.com/en/1.7/intro/tutorial01/
+[6]: https://www.youtube.com/watch?v=OayIF9Pz7rE
