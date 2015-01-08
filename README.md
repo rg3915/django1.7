@@ -106,7 +106,7 @@ e veja que o projeto já está funcionando.
 
 ### Video no YouTube
 
-Agora assista o video no [youtube][6] e também leia [PythonClub][5].
+Agora assista o video no [youtube][6] e também leia [PythonClub][7].
 
 ### Carregando dados de um **json**
 
