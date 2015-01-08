@@ -5,6 +5,13 @@ Exemplo mínimo de um projeto Django baseado no site [djangoproject.com][0].
 
 O site mostra uma *Intro to Django* em [Get started with Django][1]. Então veremos aqui como instalar um **virtualenv**, instalar o *Django 1.7* nele e criar um projeto baseado em *Intro to Django*.
 
+| ![YouTube](http://pythonclub.com.br/images/regisdasilva/youtube_logo.png) | ![PythonClub](http://res.cloudinary.com/diu8g9l0s/image/upload/v1400201393/pythonclub/logo_275x130.png) |
+|------------------------------|------------------------------|
+| [YouTube][6]          	   | [PythonClub][7]                  |
+
+
+Veja o video no Youtube e o post no PythonClub.
+
 ### Instalando alguns programas
 
 * **[VirtualEnv][2]**
