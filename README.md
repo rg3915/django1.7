@@ -10,7 +10,7 @@ O site mostra uma *Intro to Django* em [Get started with Django][1]. Então vere
 | [YouTube][6]          	   | [PythonClub][7]                  |
 
 
-Veja o video no Youtube e o post no PythonClub.
+Veja o video no [Youtube][6] e o post no [PythonClub][7].
 
 ### Instalando alguns programas
 
